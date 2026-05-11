@@ -1,0 +1,1 @@
+# test-task-yadro-tatlin.object.core
